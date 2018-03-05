@@ -3,14 +3,15 @@
     <!-- Jumbotron -->
     <div class="jumbotron text-center">
         <div class="content">
-            <div class="event-date">DECEMBER 20–25, 2017, SHANGHAI</div>
-            <h1>Title of Your Conference or Event</h1>
+            <div class="event-date">13, 14, 15 JUILLET 2018 Abidjan Palais de La Culuture</div>
+            <h1>Le Week-End de la Boisson</h1>
             <p class="lead">It's a tag line, where you can write a key point of your idea. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
             <button type="button" class="btn btn-default btn-lg">STAY IN THE LOOP</button>
         </div>
     </div>
 
-    <!-- About  -->
+    <!-- Jumbotron -->
+
     <section id="section-intro" class="section-wrapper about-event">
         <div class="container">
             <div class="row">
@@ -36,12 +37,183 @@
     </section>
     <!-- .about-event -->
 
+    <section id="section-pricing" class="section-wrapper pricing-section gray-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>LES ACTIVITES</h1>
+                        <p>Quickly synthesize low-risk high-yield e-markets without dynamic.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="pricing-table-default text-center">
+                        <div class="pricing-head">
+                            <h3>ANIMATIONS</h3>
+                            <span class="price"><sup>$</sup>100</span>
+                        </div>
+                        <div class="pricing-detail">
+                            <ul class="pricing-list pink-i">
+                                <li>Main keynote speeches</li>
+                                <li>Access to all areas</li>
+                                <li>Lunch on day 1</li>
+                            </ul>
+                        </div>
+                        <a href="#" class="btn btn-primary">BUY TICKET</a>
+                    </div>
+                    <!-- /.pricing-table-wrapper -->
+                </div>
+                <!-- .col-sm-4 -->
+
+                <div class="col-sm-4">
+                    <div class="pricing-table-default text-center">
+                        <div class="pricing-head">
+                            <h3>JEUX-CONCOURS</h3>
+                            <span class="price"><sup>$</sup>150</span>
+                        </div>
+                        <div class="pricing-detail">
+                            <ul class="pricing-list pink-i">
+                                <li>Main keynote speeches</li>
+                                <li>Access to all areas</li>
+                                <li>Lunch on day 1</li>
+                            </ul>
+                        </div>
+                        <a href="#" class="btn btn-primary">BUY TICKET</a>
+                    </div>
+                    <!-- /.pricing-table-wrapper -->
+                </div>
+                <!-- .col-sm-4 -->
+
+                <div class="col-sm-4">
+                    <div class="pricing-table-default text-center">
+                        <div class="pricing-head">
+                            <h3>MAQUIS GEANT</h3>
+                            <span class="price"><sup>$</sup>250</span>
+                        </div>
+                        <div class="pricing-detail">
+                            <ul class="pricing-list pink-i">
+                                <li>Main keynote speeches</li>
+                                <li>Access to all areas</li>
+                                <li>Lunch on day 1</li>
+                            </ul>
+                        </div>
+                        <a href="#" class="btn btn-primary">BUY TICKET</a>
+                    </div>
+                    <!-- /.pricing-table-wrapper -->
+                </div>
+                <!-- .col-sm-4 -->
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.container -->
+    </section>
+    <!-- .pricing-section -->
+
+    <section id="section-ajenda" class="section-wrapper section-ajenda">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="section-title">
+                        <h1>AGENDA</h1>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="session">
+                        <time>8:30AM</time>
+                        <h2>Doors Open</h2>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>9:30 - 9:40AM</time>
+                        <h2>Opening Remarks</h2>
+                        <h3>Fiona Kuhn <span>CO-FOUNDER & CEO, MES</span></h3>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>9:50 - 10:05AM</time>
+                        <h2>Focus on the story: how publishers and brands succeed on today's internet.</h2>
+                        <h3>Marie Jung <span>HEAD OF PARTNERSHIPS, MES</span></h3>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>10:10 - 10:35AM</time>
+                        <h2>Keynote Presentation</h2>
+                        <h3>Zoe Kühn <span>CO-FOUNDER & CEO,, BOOSTER</span></h3>
+                    </div>
+                    <!-- .session -->
+
+
+                </div>
+                <div class="col-md-4">
+                    <div class="session">
+                        <time>11:15 - 1:35PM</time>
+                        <h2>Brand Innovator Spotlight</h2>
+                        <h3>Tim Rams <span>DIRECTOR, CONTENT MARKETING, FIXS</span></h3>
+                        <h3>Daniel Fuchs <span>DIRECTOR OF MEDIA SERVICES, MENGO</span></h3>
+                        <h3>Hannah Keller <span>CO-FOUNDER, LOLO</span></h3>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>1:35 - 2:20PM</time>
+                        <h2>Fireside Chat: Making Native Work - An Agency Perspective</h2>
+                        <h3>Fiona Kuhn <span>CO-FOUNDER & CEO, MES</span></h3>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>2:20 - 3:20PM</time>
+                        <h2>Lunch Break</h2>
+                    </div>
+                    <!-- .session -->
+
+
+                </div>
+                <div class="col-md-4">
+                    <div class="session">
+                        <time>3:20PM - 4PM</time>
+                        <h2>Native Creatives Winners Presentation</h2>
+                        <h3>Johann Graf <span>VP Sales, MES</span></h3>
+                    </div>
+                    <!-- .session -->
+
+                    <div class="session">
+                        <time>4:05 - 5:30PM</time>
+                        <h2>Case Study: XYR</h2>
+                        <h3>Jan Pfeiffer <span>HEAD OF COMMUNICATIONS, TOT</span></h3>
+                        <h3>Marie Ilsner <span>PRESIDENT, PADDA</span></h3>
+                        <h3>Hannes Beck <span>MANAGING DIRECTOR, DEP</span></h3>
+                    </div>
+                    <!-- .session -->
+
+
+                    <div class="session">
+                        <time>5:30 - 6:00PM</time>
+                        <h2>Cocktail and Networking Party</h2>
+                    </div>
+                    <!-- .session -->
+
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
     <section id="section-speaker" class="section-wrapper team gray-bg">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h1>SPEAKERS</h1>
+                        <h1>GALERIE</h1>
                     </div>
                 </div>
             </div>
@@ -202,185 +374,12 @@
     </section>
     <!-- .team -->
 
-    <section id="section-ajenda" class="section-wrapper section-ajenda">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-title">
-                        <h1>AJENDA</h1>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="session">
-                        <time>8:30AM</time>
-                        <h2>Doors Open</h2>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>9:30 - 9:40AM</time>
-                        <h2>Opening Remarks</h2>
-                        <h3>Fiona Kuhn <span>CO-FOUNDER & CEO, MES</span></h3>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>9:50 - 10:05AM</time>
-                        <h2>Focus on the story: how publishers and brands succeed on today's internet.</h2>
-                        <h3>Marie Jung <span>HEAD OF PARTNERSHIPS, MES</span></h3>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>10:10 - 10:35AM</time>
-                        <h2>Keynote Presentation</h2>
-                        <h3>Zoe Kühn <span>CO-FOUNDER & CEO,, BOOSTER</span></h3>
-                    </div>
-                    <!-- .session -->
-
-
-                </div>
-                <div class="col-md-4">
-                    <div class="session">
-                        <time>11:15 - 1:35PM</time>
-                        <h2>Brand Innovator Spotlight</h2>
-                        <h3>Tim Rams <span>DIRECTOR, CONTENT MARKETING, FIXS</span></h3>
-                        <h3>Daniel Fuchs <span>DIRECTOR OF MEDIA SERVICES, MENGO</span></h3>
-                        <h3>Hannah Keller <span>CO-FOUNDER, LOLO</span></h3>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>1:35 - 2:20PM</time>
-                        <h2>Fireside Chat: Making Native Work - An Agency Perspective</h2>
-                        <h3>Fiona Kuhn <span>CO-FOUNDER & CEO, MES</span></h3>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>2:20 - 3:20PM</time>
-                        <h2>Lunch Break</h2>
-                    </div>
-                    <!-- .session -->
-
-
-                </div>
-                <div class="col-md-4">
-                    <div class="session">
-                        <time>3:20PM - 4PM</time>
-                        <h2>Native Creatives Winners Presentation</h2>
-                        <h3>Johann Graf <span>VP Sales, MES</span></h3>
-                    </div>
-                    <!-- .session -->
-
-                    <div class="session">
-                        <time>4:05 - 5:30PM</time>
-                        <h2>Case Study: XYR</h2>
-                        <h3>Jan Pfeiffer <span>HEAD OF COMMUNICATIONS, TOT</span></h3>
-                        <h3>Marie Ilsner <span>PRESIDENT, PADDA</span></h3>
-                        <h3>Hannes Beck <span>MANAGING DIRECTOR, DEP</span></h3>
-                    </div>
-                    <!-- .session -->
-
-
-                    <div class="session">
-                        <time>5:30 - 6:00PM</time>
-                        <h2>Cocktail and Networking Party</h2>
-                    </div>
-                    <!-- .session -->
-
-
-                </div>
-            </div>
-        </div>
-
-    </section>
-
-
-    <section id="section-pricing" class="section-wrapper pricing-section gray-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="section-title">
-                        <h1>BUY TICKET</h1>
-                        <p>Quickly synthesize low-risk high-yield e-markets without dynamic.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="pricing-table-default text-center">
-                        <div class="pricing-head">
-                            <h3>Early-bird PASS</h3>
-                            <span class="price"><sup>$</sup>100</span>
-                        </div>
-                        <div class="pricing-detail">
-                            <ul class="pricing-list pink-i">
-                                <li>Main keynote speeches</li>
-                                <li>Access to all areas</li>
-                                <li>Lunch on day 1</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">BUY TICKET</a>
-                    </div>
-                    <!-- /.pricing-table-wrapper -->
-                </div>
-                <!-- .col-sm-4 -->
-
-                <div class="col-sm-4">
-                    <div class="pricing-table-default text-center">
-                        <div class="pricing-head">
-                            <h3>ULTIMATE PASS</h3>
-                            <span class="price"><sup>$</sup>150</span>
-                        </div>
-                        <div class="pricing-detail">
-                            <ul class="pricing-list pink-i">
-                                <li>Main keynote speeches</li>
-                                <li>Access to all areas</li>
-                                <li>Lunch on day 1</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">BUY TICKET</a>
-                    </div>
-                    <!-- /.pricing-table-wrapper -->
-                </div>
-                <!-- .col-sm-4 -->
-
-                <div class="col-sm-4">
-                    <div class="pricing-table-default text-center">
-                        <div class="pricing-head">
-                            <h3>PLATINUM</h3>
-                            <span class="price"><sup>$</sup>250</span>
-                        </div>
-                        <div class="pricing-detail">
-                            <ul class="pricing-list pink-i">
-                                <li>Main keynote speeches</li>
-                                <li>Access to all areas</li>
-                                <li>Lunch on day 1</li>
-                            </ul>
-                        </div>
-                        <a href="#" class="btn btn-primary">BUY TICKET</a>
-                    </div>
-                    <!-- /.pricing-table-wrapper -->
-                </div>
-                <!-- .col-sm-4 -->
-            </div>
-            <!-- /.row -->
-        </div>
-        <!-- /.container -->
-    </section>
-    <!-- .pricing-section -->
-
-
     <section id="section-partner" class="section-wrapper client-logo">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h1>PARTNERS</h1>
+                        <h1>PARTENAIRES & SPONSORS</h1>
                     </div>
                 </div>
             </div>
@@ -415,7 +414,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h1>THE VENUE</h1>
+                        <h1>LE LIEU</h1>
 
                         <p>Credibly recaptiualize cutting-edge functionalities vis-a-vis intuitive growth strategies. Appropriately evolve open-source potentialities via goal-oriented e-business. Enthusiastically target go forward scenarios and visionary "outside the box" thinking. Professionally administrate cost effective sources without corporate convergence.</p>
                     </div>
@@ -433,15 +432,15 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="section-title">
-                        <h2>SLLLL</h2>
-                        <p>Don't miss the event!</p>
+                        <h2>ETRE AU PARFUM DES NEWS</h2>
+                        <p>N'oubliez pas l'evenement !</p>
                     </div>
                     <form id="contactForm" class="subscribe-form form-inline" action="sendemail.php" method="POST">
                         <div class="form-group">
                             <label for="emailTwo" class="sr-only">Email</label>
                             <input type="email" class="form-control input-lg" required="" id="emailTwo" name="email" placeholder="Enter your email address">
                         </div>
-                        <button type="submit" class="btn btn-primary btn-lg">SUBSCRIBE</button>
+                        <button type="submit" class="btn btn-primary btn-lg">S'INSCRIRE</button>
                     </form>
                 </div>
             </div>

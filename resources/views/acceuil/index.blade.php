@@ -18,6 +18,7 @@
 
     <!-- Style CSS -->
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/style_web.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -46,7 +47,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="#page-top"><img src="img/logo.png" alt=""></a>
+                    <a class="navbar-brand page-scroll" href="#page-top"><img src="img/logo_web.png" alt=""></a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
@@ -54,12 +55,12 @@
                     <ul class="nav navbar-nav">
                         <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
                         <li class="hidden"><a href="#page-top"></a></li>
-                        <li><a class="page-scroll" href="#section-intro">About</a></li>
-                        <li><a class="page-scroll" href="#section-speaker">Speaker</a></li>
+                        <li><a class="page-scroll" href="#section-intro">Acceuil</a></li>
+                        <li><a class="page-scroll" href="#section-speaker">Galerie</a></li>
                         <li><a class="page-scroll" href="#section-ajenda">Agenda</a></li>
-                        <li><a class="page-scroll" href="#section-pricing">Buy Ticket</a></li>
-                        <li><a class="page-scroll" href="#section-partner">Partners</a></li>
-                        <li><a class="page-scroll" href="#section-venue">Venue</a></li>
+                       <!-- <li><a class="page-scroll" href="#section-pricing">Inscription</a></li> -->
+                        <li><a class="page-scroll" href="#section-partner">Partenaires & Sponsors</a></li>
+                        <li><a class="page-scroll" href="#section-venue">Le Lieu</a></li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
